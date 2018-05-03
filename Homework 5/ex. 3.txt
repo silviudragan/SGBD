@@ -1,0 +1,3 @@
+Pentru optimizarea problemei am folosit un index pe coloanele USER_ID, SOLVED si ID din tabela ANSWERS, accelerând astfel accesul la date întrucât în
+rezolvarea exercitiului fac interogari multiple pe aceste câmpuri. Deci crearea indexului pe aceasta tabela faciliteaza gasirea datelor mai rapid
+si eficient.
